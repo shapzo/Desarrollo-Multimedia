@@ -22,9 +22,9 @@ Para el uso de esta pagina se probo en **[XAMPP](https://www.apachefriends.org/e
 
 ## Imagenes del sitio
 
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
+![App Screenshot](https://github.com/shapzo/Desarrollo-Multimedia/blob/main/Img/Screenshot/IMG1.png?raw=true)
+![App Screenshot](https://github.com/shapzo/Desarrollo-Multimedia/blob/main/Img/Screenshot/IMG2.png?raw=true)
+![App Screenshot](https://github.com/shapzo/Desarrollo-Multimedia/blob/main/Img/Screenshot/IMG3.png?raw=true)
 
 ## Author
 
